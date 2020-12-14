@@ -10,6 +10,7 @@ namespace englishTest
         protected string[] paragraph;
         protected List<multiChoise> questions =new List<multiChoise>();
         protected int level;
+        public multiQuestion(){}
         public multiQuestion(string[] Pharagraph,List<multiChoise> Questions,int level)
         {
             this.paragraph = Pharagraph;

@@ -21,6 +21,12 @@ namespace englishTest
             get { return this.content; }
             set { this.content = value; }
         }
+        // Constructor function.
+        public multiChoise()
+        {
+            this.content = "";
+            this.state = false;
+        }
         public multiChoise(string conten, List<option> options, option answer, bool state)
         {
             this.content = conten;
@@ -28,6 +34,8 @@ namespace englishTest
             this.answer = answer;
             this.state = state;
         } 
+        // end of constructor function
+        // Getter and Setter
         public option Answer
         {
             get { return this.answer; }
@@ -37,16 +45,12 @@ namespace englishTest
             get { return this.userChoice; }
             set { this.userChoice = value; }
         }
-        public multiChoise()
-        {
-            this.content = "";
-            this.state = false;
-        }
         public bool State
         {
             get{return this.state;}
             set { this.state = value; }
         }
+        //-------   end of Getter-Setter -------
         public void show()
         {
             char key = 'A';
