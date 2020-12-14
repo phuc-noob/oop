@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\englishTest\englishTest\bin\Debug\netcoreapp3.1\englishTest.exe
+C:\Users\PC\source\repos\englishTest\englishTest\bin\Debug\netcoreapp3.1\englishTest.deps.json
+C:\Users\PC\source\repos\englishTest\englishTest\bin\Debug\netcoreapp3.1\englishTest.runtimeconfig.json
+C:\Users\PC\source\repos\englishTest\englishTest\bin\Debug\netcoreapp3.1\englishTest.runtimeconfig.dev.json
+C:\Users\PC\source\repos\englishTest\englishTest\bin\Debug\netcoreapp3.1\englishTest.dll
+C:\Users\PC\source\repos\englishTest\englishTest\bin\Debug\netcoreapp3.1\englishTest.pdb
+C:\Users\PC\source\repos\englishTest\englishTest\obj\Debug\netcoreapp3.1\englishTest.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\englishTest\englishTest\obj\Debug\netcoreapp3.1\englishTest.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\englishTest\englishTest\obj\Debug\netcoreapp3.1\englishTest.AssemblyInfo.cs
+C:\Users\PC\source\repos\englishTest\englishTest\obj\Debug\netcoreapp3.1\englishTest.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\englishTest\englishTest\obj\Debug\netcoreapp3.1\englishTest.dll
+C:\Users\PC\source\repos\englishTest\englishTest\obj\Debug\netcoreapp3.1\englishTest.pdb
+C:\Users\PC\source\repos\englishTest\englishTest\obj\Debug\netcoreapp3.1\englishTest.genruntimeconfig.cache

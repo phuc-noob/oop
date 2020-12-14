@@ -1,0 +1,10 @@
+0~The fisrt question ?oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki >love you &answer
+0~The second question ?love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer >fuck you &answer
+0~The fisrt question ?oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki >love you &answer
+0~The second question ?love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer >fuck you &answer
+0~The fisrt question ?oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki >love you &answer
+0~The second question ?love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer >fuck you &answer
+0~The fisrt question ?oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki >love you &answer
+1~The second question ?love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer >fuck you &answer
+0~The fisrt question ?oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki >love you &answer
+0~The second question ?love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer >fuck you &answer
