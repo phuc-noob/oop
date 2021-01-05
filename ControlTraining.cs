@@ -6,12 +6,13 @@ namespace englishTest
 {
     class ControlTraining
     {
-        public User user { get; }   
+        public User user { get; }  
         private List<MulChoice> listMulChoice;
         private List<imcomplete> listImcomplete;
         private List<conversation> listConversation;
         public ControlTraining(User users,List<MulChoice> lMc,List<imcomplete> lImc,List<conversation> lCon)
         {
+            users = new User();
             this.user = users;
             this.listMulChoice = lMc;
             this.listImcomplete = lImc;
@@ -21,6 +22,7 @@ namespace englishTest
         public bool inArray(int id)
         {
             int[] listId = this.lId();
+            
             for(int i = 0; i < listId.Length; i++)
             {
                 if(listId[i] ==id)
@@ -34,10 +36,11 @@ namespace englishTest
         public int[] lId()
         {
             int i = 0;
-            int[] Lid =new int[100] ;
+            int[] Lid =new int[this.user.marks.Count+1] ;
             foreach(Mark k in this.user.marks)
             {
-                Lid[i++] = k.idQuestion;
+                Lid[i] = k.idQuestion;
+                i++;
             }
             return Lid;
         }
@@ -159,7 +162,7 @@ namespace englishTest
         }
         public void show()
         {
-            List<MulChoice> mc = this.randomMC(7);
+            List<MulChoice> mc = this.randomMC(3);
             imcomplete Imc = this.randomImc(3);
             conversation Con = this.randomCon(3);
             foreach(MulChoice k in mc)

@@ -51,11 +51,13 @@ namespace englishTest
         }
         public User()
         {
+            List<Mark> t = new List<Mark>();
             for(int i =0;i < 7; i++)
             {
                 this.marks = new List<Mark>();
-                this.marks.Add(new Mark(i));
+                t.Add(new Mark(i));
             }
+            this.marks = t;
         }
         public User(List<Mark> t)
         {

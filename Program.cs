@@ -15,17 +15,15 @@ namespace englishTest
             {
                 if (key.ToUpper() == "A")
                 {
-                    Console.WriteLine("Default Foreground Color: {0}",
-                                 Console.ForegroundColor);
-                    Console.ForegroundColor= ConsoleColor.Red;
-                    Console.WriteLine("the text");
-                    /*
-                     User users = new User();
-                     ControlQuestion a = new ControlQuestion();
-                    Console.WriteLine(a.getListMC.Count);
-                     //a.Show();*/
-                    /*ControlTraining b = new ControlTraining(users ,a.getListMC,a.getListImc,a.getCon);
-                    b.show();*/
+                    controlProgram a = new controlProgram();
+                    a.TrainingMC();
+                    
+                     //User users = new User();
+                     ///ControlQuestion a = new ControlQuestion();
+                    //Console.WriteLine(a.getListMC.Count);
+                     //a.Show();
+                    //ControlTraining b = new ControlTraining(users ,a.getListMC,a.getListImc,a.getCon);
+                    //b.show();
                     menu(ref key);
                 }
             }
