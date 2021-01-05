@@ -6,13 +6,13 @@ namespace englishTest
 {
     class option
     {
-        protected string content;
-        protected string explain;
+        private string content;
+        private string explain;
         public string Content
         {
             get { return this.content; }
         }
-        public string Expalin
+        public string Explain
         {
             get { return this.explain; }
         }

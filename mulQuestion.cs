@@ -5,26 +5,28 @@ using System.IO;
 
 namespace englishTest
 {
-    class multiQuestion
+    class mulQuestion:Question
     {
         protected string[] paragraph;
-        protected List<multiChoise> questions =new List<multiChoise>();
-        protected int level;
-        public multiQuestion(){}
-        public multiQuestion(string[] Pharagraph,List<multiChoise> Questions,int level)
+        protected List<MulChoice> questions =new List<MulChoice>();
+        public mulQuestion()
         {
+            this.danhMuc = DanhMuc.DanhMucKhac;
+        }
+        public mulQuestion(int id,int level, DanhMuc danhMuc,float mark,string[] Pharagraph,List<MulChoice> Questions)
+        {
+            this.id = id;
+            this.level = level;
+            this.danhMuc = danhMuc;
+            this.mark = mark;
             this.paragraph = Pharagraph;
             this.questions = Questions;
-            this.level = level;
         }
-        public List<multiChoise> Questions
+        public List<MulChoice> Questions
         {
             get { return this.questions; }
         }
-        public bool State
-        {
-            get { return questions[0].State; }
-        }
+        
         public int Level
         {
             get { return this.level; }
@@ -42,7 +44,7 @@ namespace englishTest
                Console.WriteLine("\t" +j);
            }
             Console.WriteLine();
-           foreach(multiChoise i in questions)
+           foreach(MulChoice i in questions)
             {
                 Console.Write("\t");
                 i.show();

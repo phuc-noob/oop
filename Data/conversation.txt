@@ -1,10 +1,30 @@
-@1#Are you setting up a small business? Worried about the costs \nof renting office space and employing the right people?\nRebus Virtual Office World can help you. With our Basic Office Deal,\nwe can set up a virtual office for you practically overnight.\nWe will give your business a professional image and our polite, \nfriendly staff will handle your calls and present your business in the best possible way.\nWe can provide you with: a professional business address, a local phone number and we will also handle mail.\nFor a more personal approach, with the option of forwarding mail and messages to your home address,\ndon’t hesitate to ask us about our Premier Office Deals.
-?0~1  Where is the text from? A message from a business to a current client & /An advertisement for a new business service & /An email from one business worker to another & /A newspaper article about a new business’s success & >A newspaper article about a new business’s success & 
-?0~2  What does the service provide? Off-site staff to perform general office duties & /A site where several businesses can locate their offices & /Advice on how to make your business more professional & /Temporary staff for local businesses & >Temporary staff for local businesses & 
-?0~3  Which of the following is not included in the Basic Office deal? A polite receptionist& /A mail-forwarding service & /A professional address & /A telephone-answering service & >A mail-forwarding service & 
-#################################################################################################
-@1#Are you setting up a small business? Worried about the costs \nof renting office space and employing the right people?\nRebus Virtual Office World can help you. With our Basic Office Deal,\nwe can set up a virtual office for you practically overnight.\nWe will give your business a professional image and our polite, \nfriendly staff will handle your calls and present your business in the best possible way.\nWe can provide you with: a professional business address, a local phone number and we will also handle mail.\nFor a more personal approach, with the option of forwarding mail and messages to your home address,\ndon’t hesitate to ask us about our Premier Office Deals.
-?0~1  Where is the text from? A message from a business to a current client & /An advertisement for a new business service & /An email from one business worker to another & /A newspaper article about a new business’s success & >A newspaper article about a new business’s success & 
-?0~2  What does the service provide? Off-site staff to perform general office duties & /A site where several businesses can locate their offices & /Advice on how to make your business more professional & /Temporary staff for local businesses & >Temporary staff for local businesses & 
-?0~3  Which of the following is not included in the Basic Office deal? A polite receptionist& /A mail-forwarding service & /A professional address & /A telephone-answering service & >A mail-forwarding service & 
-#################################################################################################
+1,1,1,adj
+Are you setting up a small business? Worried about the costs \nof renting office space and employing the right people?\nRebus Virtual Office World can help you. With our Basic Office Deal,\nwe can set up a virtual office for you practically overnight.\nWe will give your business a professional image and our polite, \nfriendly staff will handle your calls and present your business in the best possible way.\nWe can provide you with: a professional business address, a local phone number and we will also handle mail.\nFor a more personal approach, with the option of forwarding mail and messages to your home address,\ndon’t hesitate to ask us about our Premier Office Deals.
+,,0.25,
+Where is the text from?
+A message from a business to a current client & /An advertisement for a new business service & /An email from one business worker to another & /A newspaper article about a new business’s success & 
+A newspaper article about a new business’s success & 
+,,0.25,
+What does the service provide?
+Off-site staff to perform general office duties & /A site where several businesses can locate their offices & /Advice on how to make your business more professional & /Temporary staff for local businesses & 
+Temporary staff for local businesses & 
+,,0.25,
+Which of the following is not included in the Basic Office deal?
+A polite receptionist& /A mail-forwarding service & /A professional address & /A telephone-answering service & 
+A mail-forwarding service & 
+
+40,3,1.5,verb
+Are you setting up a small business? Worried about the costs \nof renting office space and employing the right people?\nRebus Virtual Office World can help you. With our Basic Office Deal,\nwe can set up a virtual office for you practically overnight.\nWe will give your business a professional image and our polite, \nfriendly staff will handle your calls and present your business in the best possible way.\nWe can provide you with: a professional business address, a local phone number and we will also handle mail.\nFor a more personal approach, with the option of forwarding mail and messages to your home address,\ndon’t hesitate to ask us about our Premier Office Deals.
+,,0.5,
+Where is the text from?
+A message from a business to a current client & /An advertisement for a new business service & /An email from one business worker to another & /A newspaper article about a new business’s success & 
+A newspaper article about a new business’s success & 
+,,0.5,
+What does the service provide?
+Off-site staff to perform general office duties & /A site where several businesses can locate their offices & /Advice on how to make your business more professional & /Temporary staff for local businesses & 
+Temporary staff for local businesses & 
+,,0.25,
+Which of the following is not included in the Basic Office deal? 
+A polite receptionist& /A mail-forwarding service & /A professional address & /A telephone-answering service & 
+A mail-forwarding service & 
+

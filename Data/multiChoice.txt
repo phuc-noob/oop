@@ -1,0 +1,49 @@
+1,3,0.25,noun
+The second question search ?
+love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer 
+fuck you &answer
+
+2,3,0.25,noun
+The second question search ?
+love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer 
+fuck you &answer
+
+3,1,0.25,adv
+The fisrt question ?
+oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki 
+love you &answer
+
+4,5,0.25,crazy
+The second question ?
+love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer 
+fuck you &answer
+
+5,1,0.25,noun
+The fisrt question ?
+oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki 
+love you &answer
+
+6,1,0.25,verb
+The second question ?
+love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer 
+fuck you &answer
+
+7,2,0.25,adjective
+The fisrt question ?
+oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki 
+love you &answer
+
+8,3,0.25,noun
+The second question ?
+love &ex love/fuck you &ex fuck you/love you &ex loving you/last answer &ex last answer 
+fuck you &answer
+
+9,10,0.25,love
+The fisrt question ?
+oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki 
+love you &answer
+
+10,0,0.25,love
+The fisrt question ?
+oki &ex oki/fuck you &ex fuck you/love you &ex loving you/last answer &ex oki 
+love you &answer
