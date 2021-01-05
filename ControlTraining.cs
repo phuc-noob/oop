@@ -6,7 +6,7 @@ namespace englishTest
 {
     class ControlTraining
     {
-        public User user { get; }  
+        public User user { get; set; }  
         private List<MulChoice> listMulChoice;
         private List<imcomplete> listImcomplete;
         private List<conversation> listConversation;
@@ -109,7 +109,7 @@ namespace englishTest
         {
             int[] lId = this.lId();
             List<MulChoice> MC = new List<MulChoice>();
-            MulChoice[] a = listMulChoice.ToArray();
+            MulChoice[] a = this.listMulChoice.ToArray();
             int i = 0;
             int j = 0;
 

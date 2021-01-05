@@ -11,11 +11,11 @@ namespace englishTest
         {
             String key = "";
             menu(ref key);
+            controlProgram a = new controlProgram();
             while (key.ToUpper() != "E")
             {
                 if (key.ToUpper() == "A")
                 {
-                    controlProgram a = new controlProgram();
                     a.TrainingMC();
                     
                      //User users = new User();

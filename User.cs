@@ -13,7 +13,7 @@ namespace englishTest
         public DateTime dOB { get; set; }
         public DateTime startDay { get; set; }
         public Account account { get; }
-        public List<Mark> marks { get; set; }
+        public List<Mark> marks { get;}
         public User(int id, string name, string native, bool gender, DateTime dOB, DateTime startDay, Account account, List<Mark> marks)
         {
             this.id = id;
@@ -81,6 +81,10 @@ namespace englishTest
             s.Remove(s.Length - 1);
             s = s + "\n";
             return s;
+        }
+        public void addMark(Mark mark)
+        {
+            if (mark != null) this.marks.Add(mark);
         }
     }
 }

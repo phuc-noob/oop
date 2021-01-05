@@ -40,14 +40,12 @@ namespace englishTest
             }
 
             tem = conTraining.checkAnsMC(tMc, Ans);
-            foreach(Mark t in tem)
-            {
-                Console.WriteLine(t.idQuestion);
-            }
+
             foreach(Mark k in tem)
             {
-                this.user.marks.Add(k);
+                this.user.addMark(k);
             }
+
             int i = 0;
             foreach(Mark k in tem)
             {
@@ -61,6 +59,7 @@ namespace englishTest
                 }
                 i++;
             }
+            conTraining.user = this.user;
         }
         public void WShow(string uChoice,option Ans, MulChoice lMc)
         {
